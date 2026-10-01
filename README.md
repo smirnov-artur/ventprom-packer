@@ -6,4 +6,4 @@
 Алгоритм упаковки (beam search) выполняется целиком в браузере — серверная часть
 не используется. Данные в демо тестовые.
 
-Разбор проекта: https://smirnov-artur.github.io/portfolio/
+Разбор проекта: https://smirnov-artur.github.io/works/
